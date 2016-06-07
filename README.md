@@ -33,18 +33,27 @@ Comments can be added by beginning line with #
 Sample Configuration:
 
 A : 
+
 B : A, F
+
 C : A, F
+
 D : A
+
 F : 
+
 E : B, C, D
 
 Sample Output:
 
 Process order:
+
 AF
+
 CBD
+
 E
+
 Done !!
 
 Features
